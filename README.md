@@ -41,7 +41,7 @@ Given a command-line application that accepts user input:
 
 - JavaScript
 - Node.js
-
+- Inquirer package
 
 
 
