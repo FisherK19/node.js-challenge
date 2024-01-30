@@ -1,5 +1,5 @@
 
-# Node.js challenge
+# node.js challenge
 
 ## Description
 A quick way to create a readme file

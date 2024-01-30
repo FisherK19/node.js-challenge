@@ -1,15 +1,16 @@
 # Node.js Challenge
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 Creating a command-line application to generate a README is a critical step in streamlining the process of project documentation. The Node.js Challenge is designed to address this need by offering developers a user-friendly and efficient tool. With just a few prompts, users can input essential information about their projects, and the application dynamically generates a high-quality README file. This ensures that every project follows a standardized structure, including crucial sections like Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
 
-![Application Screenshot](images/Screenshot%202024-01-30%20103123.png)
+![Application Screenshot](<images/Screenshot 2024-01-30 114010.png>)
 
 ## User Story
 As a developer, I want a README generator so that I can quickly create a professional README for a new project.
 
-### Acceptance Criteria
+## Acceptance Criteria
 Given a command-line application that accepts user input:
 - When I am prompted for information about my application repository, then a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 - When I enter my project title, then this is displayed as the title of the README.
@@ -19,12 +20,13 @@ Given a command-line application that accepts user input:
 - When I enter my email address, then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
 - When I click on the links in the Table of Contents, then I am taken to the corresponding section of the README.
 
-## Challenge Requirements
+### Challenge Requirements
 
 - GitHub Link: [GitHub Repository](https://github.com/FisherK19/node.js-challenge)
-- Screenshot: ![Application Screenshot](images/screenshot.png)
+- Screenshot: ![Application Screenshot]
+- Walkthrough Video: https://drive.google.com/file/d/1mjLzp-4g8hR3zWN1FOpRqfLasm6dPXb3/view
 
-## Generated README Includes:
+### Generated README Includes:
 - Title
 - Description
 - Installation
