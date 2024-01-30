@@ -24,7 +24,8 @@ Given a command-line application that accepts user input:
 
 - GitHub Link: [GitHub Repository](https://github.com/FisherK19/node.js-challenge)
 - Screenshot: ![Application Screenshot]
-- Walkthrough Video: https://drive.google.com/file/d/1mjLzp-4g8hR3zWN1FOpRqfLasm6dPXb3/view
+- Walkthrough Video: https://drive.google.com/file/d/16zYqk-ZMV4BP98mOWNcYirHOQOxNRcBM/view
+
 
 ### Generated README Includes:
 - Title

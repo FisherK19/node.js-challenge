@@ -1,8 +1,8 @@
 
-# Node.js challenge
+# Node.js Challenge
 
 ## Description
-A quick way to create a readme file
+A quick way to create a README file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -19,7 +19,7 @@ NPM install
 install, navigate and use application
 
 ## Contributing
-fork repo and then clone repo to local machine then submit a pull request
+fork a repo, clone the repo to local machine and submit a pull request
 
 ## Tests
 NPM test
