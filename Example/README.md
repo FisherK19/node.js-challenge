@@ -1,5 +1,5 @@
 
-# node.js challenge
+# Node.js challenge
 
 ## Description
 A quick way to create a readme file
@@ -16,14 +16,16 @@ A quick way to create a readme file
 NPM install
 
 ## Usage
-Install, Navigate and use application
+install, navigate and use application
 
-- [Contributing](#contributing)
+## Contributing
+fork repo and then clone repo to local machine then submit a pull request
 
-- [Tests](#tests)
+## Tests
+NPM test
 
 ## License
 This project is licensed under the MIT License.
 
 ## Questions
-For additional questions, contact [FisherK19](https://github.com/FisherK19) or email Fisherkristie19@icloud.com.
+For additional questions, contact [FisherK19](https://github.com/FisherK19) or email fisherkristie19@icloud.com.

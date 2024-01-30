@@ -106,7 +106,6 @@ function init() {
 // Function call to initialize app
 init();
 
-// function to generate markdown for README
 function generateMarkdown(data) {
   return `
 # ${data.title}
@@ -128,8 +127,12 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-${data.contributing ? `- [Contributing](#contributing)\n` : ''}
-${data.tests ? `- [Tests](#tests)\n` : ''}
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
 ## License
 This project is licensed under the ${data.license} License.
 
@@ -137,6 +140,7 @@ This project is licensed under the ${data.license} License.
 For additional questions, contact [${data.githubUsername}](https://github.com/${data.githubUsername}) or email ${data.email}.
 `;
 }
+
 
 
 // Export the generateMarkdown function
